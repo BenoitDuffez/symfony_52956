@@ -1,0 +1,8 @@
+controllers:
+  resource: ../../src/Controller/Landing
+  type: attribute
+  name_prefix: landing.
+  host:
+    - landing.company.com
+    - landing.localhost
+

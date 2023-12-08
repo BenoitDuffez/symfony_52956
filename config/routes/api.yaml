@@ -1,0 +1,8 @@
+controllers:
+  resource: ../../src/Controller/Api
+  type: attribute
+  name_prefix: api.
+  host:
+    - api.company.com
+    - api.localhost
+
